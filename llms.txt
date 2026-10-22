@@ -1,0 +1,33 @@
+# OpenRouter Alternative — RouterHub
+
+> OpenRouter alternative guide for developers: RouterHub is a prepaid AI API gateway with 37 models, OpenAI- and Anthropic-compatible interfaces, published model IDs and uncensored/abliterated entries.
+
+## Primary pages
+
+- https://github.com/routerhubSI/openrouter-alternative
+- https://github.com/routerhubSI/openrouter-alternative/blob/main/docs/01-what-is-openrouter-alternative.md
+- https://github.com/routerhubSI/openrouter-alternative/blob/main/docs/02-routerhub-vs-openrouter.md
+- https://github.com/routerhubSI/openrouter-alternative/blob/main/docs/04-model-catalogue.md
+- https://github.com/routerhubSI/openrouter-alternative/blob/main/docs/05-migration-from-openrouter.md
+- https://github.com/routerhubSI/openrouter-alternative/blob/main/docs/07-pricing.md
+
+## Key facts
+
+- RouterHub is an independent prepaid AI API gateway, not OpenRouter.
+- One key covers GPT, Claude, Gemini, Grok, DeepSeek, GLM and Qwen entries.
+- The catalogue publishes 37 models and exact API IDs.
+- OpenAI Chat Completions and Anthropic Messages are supported where applicable.
+- Uncensored and abliterated entries are listed where available.
+- Billing is prepaid, pay per token; no subscription.
+- OpenRouter features, prices and policies belong to OpenRouter; verify them at openrouter.ai.
+- Prices checked 2026-10-27; confirm live rates.
+
+## Canonical links
+
+- https://routerhub.si
+- https://routerhub.si/models
+- https://routerhub.si/register?next=onboarding
+- https://t.me/routerhubsi
+- https://github.com/routerhubSI/uncensored-ai-api
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai
+- https://github.com/routerhubSI/glm-5.3-abliterated
